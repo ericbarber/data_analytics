@@ -1,0 +1,81 @@
+Starting from on the gitHub repository page
+(https://github.com/ericbarber/data_analytics.git)
+
+
+1)  Download the folders and scripts from git hub repository
+    
+    a) Open git bash-
+        -press windows key
+        -type "git bash"
+        -press enter
+        (if git bash not installed on machine, there
+        will be consequences)
+
+    b) Navagate to folder directory you wish to work in
+        $ cd "enter your local directory"
+            My example: 
+            $ /c/Users/erica/Continued_Learning/Data_Analytics/
+
+    c) Clone repository to folder
+        $ git clone "web address for github repository"
+            My example:
+            $ git clone https://github.com/ericbarber/data_analytics.git
+
+    d) Close the git bash command line interface tool thing
+        $ exit
+        -or-
+        click the "X" in the corner of the window
+    
+    *Note - you can also download the repository directly from web address
+             by clicking the green button. Then use the GUI to save the folders
+             where you fancy.
+
+2) Initialized a local .git repository
+
+    a) Open git bash-
+        -press windows key
+        -type "git bash"
+        -press enter
+        (if git bash not installed on machine, there
+        will be consequences)
+
+    b) Navagate to folder directory you wish to work in
+        $ cd "enter your local directory"
+            My example: 
+            $ /c/Users/erica/Continued_Learning/Data_Analytics/
+
+    c) Initialise a .git folder
+        $ git init
+
+    d) Verify a file name .git is now in your folder
+        $ ls -latr | grep ".git"
+    
+    e) Close the git bash command line interface tool thing
+        $ exit
+        -or-
+        click the "X" in the corner of the window
+
+3) Set remote repository
+
+    a) Open git bash-
+        -press windows key
+        -type "git bash"
+        -press enter
+        (if git bash not installed on machine, there
+        will be consequences)
+
+    b) Navagate to folder directory you wish to work in
+        $ cd "enter your local directory"
+            My example: 
+            $ /c/Users/erica/Continued_Learning/Data_Analytics/
+
+    c) Set up-stream repository to git hub our teams git repository
+        $ git --set-upstream "remote repo" "local branch name"
+            My example:
+            $ git --set-upstream githubRepo master
+
+    *Note: Synching the 'master' to our 'github repo' makes life easier
+    when it comes time to fetch, pull and push -- more on this later.
+
+4) more to come
+

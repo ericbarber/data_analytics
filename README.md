@@ -1,5 +1,5 @@
 # Data Analytics
-## methods for generating value from data with Python, R and SQL
+## Generating value from data with Python, R and SQL
 
 Methods for analysis of data are widely known and shared,
 but the effective reporting of analysis techniques for executive
