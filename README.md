@@ -7,3 +7,18 @@ we will explore as many analysis methods and provide an exeutive
 summary report for the methods. Becuase, keeping the people with 
 the money informed is a good thing.
 
+Current Topics:
+Data Generators
+
+Future Topics:
+Enterprise Risk Assessment
+Regression-
+    Single Linear Regression
+    Multiple Linear Regression
+    Logistic Regression
+Classification-
+    Nearest Neighbor
+    K-Means
+    Random Forest
+    Gradient boosted
+    Multiarm Bandit
