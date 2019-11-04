@@ -1,4 +1,4 @@
-# Data Analytics - methods for generating value from data
+# Data Analytics - methods for generating value from data with Python, R and SQL
 
 Methods for analysis of data are widely known and shared,
 but the effective reporting of analysis techniques in a 
@@ -8,7 +8,9 @@ summary report for the methods. Becuase, keeping the people with
 the money informed is a good thing.
 
 Current Topics:
+Database Connections
 Data Generators
+
 
 Future Topics:
 Enterprise Risk Assessment
@@ -21,4 +23,4 @@ Classification-
     K-Means
     Random Forest
     Gradient boosted
-    Multiarm Bandit
+    Multi Arm Bandit - resource allocation
