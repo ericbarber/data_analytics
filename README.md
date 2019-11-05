@@ -13,12 +13,17 @@ Database Connections-
 Data Generators
 
 
+
 Future Topics:
-Enterprise Risk Assessment
+Data Lake Remapping - Gaby
+Jira Board (Kanban) - Chris
+Enterprise Risk Assessment - Eric
 Regression-
-    Single Linear Regression
+    Single Linear Regression - Carl
+        Salary vs Years Experience
+        Housing Prices
     Multiple Linear Regression
-    Logistic Regression
+    Logistic Regression - Ben
 Classification-
     Nearest Neighbor
     K-Means
