@@ -4,7 +4,6 @@ import pandas as pd
 import sqlite3 as lite
 
 # Source of mock data.
-xlsx_file = './mock_data.xlsx'
 
 # Previously defined list of descriptor valuse associated with each risk metric
 descriptor_dictionary = {
@@ -92,7 +91,7 @@ def main(xlsx_file):
     describe_risk_metrics(df)
 
     # write processed data table to xlsx file
-    df.to_excel(f'./proccesses_{xlsx_file}.xlsx', index=False)
+    df.to_excel(f'./proccesses_{xlsx_file}', index=False)
     return
     
 if __name__ == '__main__':
