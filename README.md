@@ -8,25 +8,22 @@ methods and provide an exeutive summary report for the methods.
 Becuase, keeping the people with the money informed is a good thing.
 
 Current Topics:
-Database Connections-
-    Azure Data Lake
-Data Generators
 
 
 
 Future Topics:
-Data Lake Remapping - Gaby
-Jira Board (Kanban) - Chris
-Enterprise Risk Assessment - Eric
-Regression-
-    Single Linear Regression - Carl
-        Salary vs Years Experience
-        Housing Prices
-    Multiple Linear Regression
+  Data Lake Remapping - Gaby
+  Data Processing and Prepwork - 
+  Jira Board (Kanban) - Chris
+  Enterprise Risk Assessment - Eric
+  Git Hub - Eric
+  Regression-
+    Simple Linear Regression - Carl
+    Multiple Linear Regression - Carl
     Logistic Regression - Ben
-Classification-
-    Nearest Neighbor
-    K-Means
-    Random Forest
-    Gradient boosted
-    Multi Arm Bandit - resource allocation
+    Classification-
+        Nearest Neighbor
+        K-Means
+        Random Forest
+        Gradient boosted
+        Bandits
