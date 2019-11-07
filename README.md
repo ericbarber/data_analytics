@@ -8,26 +8,26 @@ methods and provide an exeutive summary report for the methods.
 Becuase, keeping the people with the money informed is a good thing.
 
 Current Topics:
-&nbsp
-
+  
 
 Future Topics:  
-&nbsp
+  
 
   Data Lake Remapping - Gaby  
   Data Processing and Prepwork -   
   Jira Board (Kanban) - Chris  
   Enterprise Risk Assessment - Eric  
   Git Hub - Eric  
-&nbsp
 
-  Regression-  
-&nbsp
+
+  Regression:  
+  
 
     Simple Linear Regression - Carl  
     Multiple Linear Regression - Carl  
     Logistic Regression - Ben  
-    Classification-  
+  
+  Classification:  
         Nearest Neighbor  
         K-Means  
         Random Forest  
