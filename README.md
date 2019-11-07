@@ -13,13 +13,17 @@ Current Topics:
 
 Future Topics:  
 &nbsp
+
   Data Lake Remapping - Gaby  
   Data Processing and Prepwork -   
   Jira Board (Kanban) - Chris  
   Enterprise Risk Assessment - Eric  
   Git Hub - Eric  
+&nbsp
+
   Regression-  
 &nbsp
+
     Simple Linear Regression - Carl  
     Multiple Linear Regression - Carl  
     Logistic Regression - Ben  
