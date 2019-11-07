@@ -11,25 +11,23 @@ Current Topics:
   
 
 Future Topics:  
-  
 
-  Data Lake Remapping - Gaby  
-  Data Processing and Prepwork -   
-  Jira Board (Kanban) - Chris  
-  Enterprise Risk Assessment - Eric  
   Git Hub - Eric  
-
+  Data Lake Remapping -   
+  Jira Kanban Board -   
+  Enterprise Risk Assessment - Eric  
 
   Regression:  
   
-
     Simple Linear Regression - Carl  
     Multiple Linear Regression - Carl  
     Logistic Regression - Ben  
   
   Classification:  
-        Nearest Neighbor  
-        K-Means  
-        Random Forest  
-        Gradient boosted  
-        Bandits  
+    Nearest Neighbor  
+    K-Means  
+    Random Forest  
+    Gradient boosted  
+    Bandits  
+
+  
