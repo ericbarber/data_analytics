@@ -17,17 +17,18 @@ Future Topics:
   Jira Kanban Board -   
   Enterprise Risk Assessment - Eric  
 
-  Regression:  
+Regression:  
   
-    Simple Linear Regression - Carl  
-    Multiple Linear Regression - Carl  
-    Logistic Regression - Ben  
+  Simple Linear Regression - Carl  
+  Multiple Linear Regression - Carl  
+  Logistic Regression - Ben  
   
-  Classification:  
-    Nearest Neighbor  
-    K-Means  
-    Random Forest  
-    Gradient boosted  
-    Bandits  
+Classification:  
+
+  Nearest Neighbor  
+  K-Means  
+  Random Forest  
+  Gradient boosted  
+  Bandits  
 
   
