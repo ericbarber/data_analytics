@@ -9,26 +9,4 @@ Becuase, keeping the people with the money informed is a good thing.
 
 Current Topics:
   
-
 Future Topics:  
-
-  Git Hub - Eric  
-  Data Lake Remapping -   
-  Jira Kanban Board -   
-  Enterprise Risk Assessment - Eric  
-
-Regression:  
-  
-  Simple Linear Regression - Carl  
-  Multiple Linear Regression - Carl  
-  Logistic Regression - Ben  
-  
-Classification:  
-
-  Nearest Neighbor  
-  K-Means  
-  Random Forest  
-  Gradient boosted  
-  Bandits  
-
-  
